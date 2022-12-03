@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501271100631",
+    "project_id": "duandatve",
+    "storage_bucket": "duandatve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501271100631:android:31b8e134a8370aa6294492",
+        "android_client_info": {
+          "package_name": "fpoly.cp17302_3.duanchinh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501271100631-cbd1j2p4k15v4s7v1mn6h41fejd8mjsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fpoly.cp17302_3.duanchinh",
+            "certificate_hash": "f5e0dec42641bfdc5595747fc48fa54e1b2770f2"
+          }
+        },
+        {
+          "client_id": "501271100631-e8681j2rs4v5eo3aeq1g7co3u7r9rev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8zh1C2aBx5ijDFyNGRWupG1K27gbYy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501271100631-e8681j2rs4v5eo3aeq1g7co3u7r9rev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

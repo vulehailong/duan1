@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_background">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chúng tôi muốn lắng nghe
+ý kiến của quý khách . Vui lòng
+gửi mọi yêu cầu thắc mắc theo
+thông tin bên dưới , chúng tôi sẽ
+liên lạc với bạn sớm nhất có thể"
+        android:textSize="28dp"
+        android:textColor="#ECD1AA"
+        android:layout_marginBottom="10sp"
+        android:gravity="center"
+        android:fontFamily="@font/roboto_black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"
+        android:text="Họ và tên :"
+        android:fontFamily="@font/roboto_medium"/>
+
+    <EditText
+        android:textSize="20dp"
+        android:background="@drawable/botron_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edthoten"
+        android:hint="nhập họ và tên"
+        android:layout_margin="5sp"
+        android:fontFamily="@font/roboto_medium"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"
+        android:text="Email :"
+        android:fontFamily="@font/roboto_medium"/>
+
+    <EditText
+        android:textSize="20dp"
+        android:background="@drawable/botron_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtemail"
+        android:hint="Nhập email"
+        android:layout_margin="5sp"
+        android:fontFamily="@font/roboto_medium"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"
+        android:text="Nội dung :"
+        android:fontFamily="@font/roboto_medium"/>
+
+    <EditText
+        android:id="@+id/edtnoidung"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5sp"
+        android:background="@drawable/botron_edittext"
+        android:gravity="start"
+        android:hint="nhập nội dung"
+        android:textSize="20dp"
+        android:fontFamily="@font/roboto_medium"/>
+
+
+
+
+</LinearLayout>

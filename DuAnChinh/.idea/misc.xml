@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable-v24/background_toggle.xml" value="0.173" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_dangnhap.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_dialog.xml" value="0.2555" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_item.xml" value="0.173" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_left.xml" value="0.1535" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_login_button.xml" value="0.1535" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/drawable/shape_login_panel.xml" value="0.173" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/activity_dang_nhap.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/activity_main_admin.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/activity_main_khachhang.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/admin_fragment_datve.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/admin_item_dangchieu.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/admin_item_datve.xml" value="0.16" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/admin_item_xuatchieu.xml" value="0.10989583333333333" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/dialog_themphim.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/dialog_xoa.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_dangky.xml" value="0.2" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_dangnhap.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_datve.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_datve_admin.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_doimatkhau.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_giohang.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_qltaikhoan.xml" value="0.10989583333333333" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_qltheloai.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_qlxuatchieu.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_taikhoan.xml" value="0.264" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_trangchu.xml" value="0.16" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/fragment_trangchu_custom.xml" value="0.24635416666666668" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_datve.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_fragment_dangchieu.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_fragment_datve.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_item_datve.xml" value="0.6" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_item_giohang.xml" value="0.264" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_item_thanhvien.xml" value="0.11574074074074074" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/khachhang_item_theloai.xml" value="0.10989583333333333" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/layout/trangchu_item_phim.xml" value="0.25" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/menu/menu_admin.xml" value="0.1" />
+        <entry key="..\:/FPT-Polytechnic/HOCKY4/DuAn1/BaiTap/DuAnChinh/app/src/main/res/menu/menu_khachhang.xml" value="0.21481481481481482" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
